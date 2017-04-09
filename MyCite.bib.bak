@@ -1,0 +1,21 @@
+@article{cadambe2008interference,
+  title={Interference alignment and degrees of freedom of the $ K $-user interference channel},
+  author={Cadambe, Viveck R and Jafar, Syed Ali},
+  journal={IEEE Transactions on Information Theory},
+  volume={54},
+  number={8},
+  pages={3425--3441},
+  year={2008},
+  publisher={IEEE}
+}
+
+@article{gomadam2011distributed,
+  title={A distributed numerical approach to interference alignment and applications to wireless interference networks},
+  author={Gomadam, Krishna and Cadambe, Viveck R and Jafar, Syed A},
+  journal={IEEE Transactions on Information Theory},
+  volume={57},
+  number={6},
+  pages={3309--3322},
+  year={2011},
+  publisher={IEEE}
+}

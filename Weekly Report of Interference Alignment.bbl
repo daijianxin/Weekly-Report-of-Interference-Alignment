@@ -1,0 +1,20 @@
+\begin{thebibliography}{1}
+
+\bibitem{cadambe2008interference}
+V.~R. Cadambe and S.~A. Jafar, ``Interference alignment and degrees of freedom
+  of the $ k $-user interference channel,'' {\em IEEE Transactions on
+  Information Theory}, vol.~54, no.~8, pp.~3425--3441, 2008.
+
+\bibitem{gomadam2011distributed}
+K.~Gomadam, V.~R. Cadambe, and S.~A. Jafar, ``A distributed numerical approach
+  to interference alignment and applications to wireless interference
+  networks,'' {\em IEEE Transactions on Information Theory}, vol.~57, no.~6,
+  pp.~3309--3322, 2011.
+
+\bibitem{geraci2017operating}
+G.~Geraci, A.~Garcia-Rodriguez, D.~L{\'o}pez-P{\'e}rez, A.~Bonfante, L.~G.
+  Giordano, and H.~Claussen, ``Operating massive mimo in unlicensed bands for
+  enhanced coexistence and spatial reuse,'' {\em IEEE Journal on Selected Areas
+  in Communications}, 2017.
+
+\end{thebibliography}
