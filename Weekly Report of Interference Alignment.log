@@ -1,13 +1,13 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2017.3.27)  7 APR 2017 20:21
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2017.3.18)  11 APR 2017 22:51
 entering extended mode
-**E:/myCode/Latex/Weekly*Report*of*Interference*Alignment/Weekly*Report*of*Inte
-rference*Alignment.tex
+**F:/代码文件夹/Githup/Weekly-Report-of-Interference-Alignment/Weekly*Repo
+rt*of*Interference*Alignment.tex
 
-("E:/myCode/Latex/Weekly Report of Interference Alignment/Weekly Report of Inte
-rference Alignment.tex"
+("F:/代码文件夹/Githup/Weekly-Report-of-Interference-Alignment/Weekly Repo
+rt of Interference Alignment.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for loaded.
-(C:\CTEX\MiKTeX\tex\latex\ieeetran\IEEEtran.cls
+(D:\CTEX\MiKTeX\tex\latex\ieeetran\IEEEtran.cls
 Document Class: IEEEtran 2007/03/05 V1.7a by Michael Shell
 -- See the "IEEEtran_HOWTO" manual for usage information.
 -- http://www.michaelshell.org/tex/ieeetran/
@@ -18,7 +18,7 @@ Document Class: IEEEtran 2007/03/05 V1.7a by Michael Shell
 \@IEEEtrantmptoksA=\toks14
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 366.
 
-(C:\CTEX\MiKTeX\tex\latex\psnfss\ot1ptm.fd
+(D:\CTEX\MiKTeX\tex\latex\psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 ** ATTENTION: Single column mode is not typically used with IEEE publications.
@@ -88,54 +88,54 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
 \@IEEEtmpitemindent=\dimen116
 \c@IEEEbiography=\count90
 \@IEEEtranrubishbin=\box26
-) (C:\CTEX\MiKTeX\tex\latex\graphics\graphics.sty
+) (D:\CTEX\MiKTeX\tex\latex\graphics\graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(C:\CTEX\MiKTeX\tex\latex\graphics\trig.sty
+(D:\CTEX\MiKTeX\tex\latex\graphics\trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(C:\CTEX\MiKTeX\tex\latex\00miktex\graphics.cfg
+(D:\CTEX\MiKTeX\tex\latex\00miktex\graphics.cfg
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(C:\CTEX\MiKTeX\tex\latex\pdftex-def\pdftex.def
+(D:\CTEX\MiKTeX\tex\latex\pdftex-def\pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(C:\CTEX\MiKTeX\tex\generic\oberdiek\infwarerr.sty
+(D:\CTEX\MiKTeX\tex\generic\oberdiek\infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
 )
-(C:\CTEX\MiKTeX\tex\generic\oberdiek\ltxcmds.sty
+(D:\CTEX\MiKTeX\tex\generic\oberdiek\ltxcmds.sty
 Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count91
 ))
-(C:\CTEX\MiKTeX\tex\latex\graphics\color.sty
+(D:\CTEX\MiKTeX\tex\latex\graphics\color.sty
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 
-(C:\CTEX\MiKTeX\tex\latex\00miktex\color.cfg
+(D:\CTEX\MiKTeX\tex\latex\00miktex\color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
 )
-(C:\CTEX\MiKTeX\tex\latex\ams\math\amsmath.sty
+(D:\CTEX\MiKTeX\tex\latex\ams\math\amsmath.sty
 Package: amsmath 2000/07/18 v2.13 AMS math features
 \@mathmargin=\skip44
 
 For additional information on amsmath, use the `?' option.
-(C:\CTEX\MiKTeX\tex\latex\ams\math\amstext.sty
+(D:\CTEX\MiKTeX\tex\latex\ams\math\amstext.sty
 Package: amstext 2000/06/29 v2.01
 
-(C:\CTEX\MiKTeX\tex\latex\ams\math\amsgen.sty
+(D:\CTEX\MiKTeX\tex\latex\ams\math\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks15
 \ex@=\dimen117
 ))
-(C:\CTEX\MiKTeX\tex\latex\ams\math\amsbsy.sty
+(D:\CTEX\MiKTeX\tex\latex\ams\math\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen118
 )
-(C:\CTEX\MiKTeX\tex\latex\ams\math\amsopn.sty
+(D:\CTEX\MiKTeX\tex\latex\ams\math\amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count92
@@ -176,25 +176,25 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
 LaTeX Info: Redefining \[ on input line 2666.
 LaTeX Info: Redefining \] on input line 2667.
 )
-(C:\CTEX\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+(D:\CTEX\MiKTeX\tex\latex\amsfonts\amsfonts.sty
 Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
 )
-(C:\CTEX\MiKTeX\tex\latex\amsfonts\amssymb.sty
+(D:\CTEX\MiKTeX\tex\latex\amsfonts\amssymb.sty
 Package: amssymb 2009/06/22 v3.00
 )
-(C:\CTEX\MiKTeX\tex\latex\preprint\balance.sty
+(D:\CTEX\MiKTeX\tex\latex\preprint\balance.sty
 Package: balance 1999/02/23 4.3 (PWD)
 \oldvsize=\dimen126
 )
-(C:\CTEX\MiKTeX\tex\latex\algorithms\algorithm.sty
+(D:\CTEX\MiKTeX\tex\latex\algorithms\algorithm.sty
 Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
 nment
 
-(C:\CTEX\MiKTeX\tex\latex\float\float.sty
+(D:\CTEX\MiKTeX\tex\latex\float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count104
 \float@exts=\toks20
@@ -202,16 +202,16 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks21
 \@floatcapt=\box30
 )
-(C:\CTEX\MiKTeX\tex\latex\base\ifthen.sty
+(D:\CTEX\MiKTeX\tex\latex\base\ifthen.sty
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \@float@every@algorithm=\toks22
 \c@algorithm=\count105
 )
-(C:\CTEX\MiKTeX\tex\latex\algorithms\algorithmic.sty
+(D:\CTEX\MiKTeX\tex\latex\algorithms\algorithmic.sty
 Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
 
-(C:\CTEX\MiKTeX\tex\latex\graphics\keyval.sty
+(D:\CTEX\MiKTeX\tex\latex\graphics\keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks23
 )
@@ -222,7 +222,7 @@ Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \ALC@tlm=\skip47
 \algorithmicindent=\skip48
 )
-(C:\CTEX\MiKTeX\tex\latex\tools\array.sty
+(D:\CTEX\MiKTeX\tex\latex\tools\array.sty
 Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen127
 \extrarowheight=\dimen128
@@ -230,18 +230,18 @@ Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \extratabsurround=\skip49
 \backup@length=\skip50
 )
-(C:\CTEX\MiKTeX\tex\latex\comment\comment.sty
+(D:\CTEX\MiKTeX\tex\latex\comment\comment.sty
 \CommentStream=\write3
  Excluding comment 'comment')
-(C:\CTEX\MiKTeX\tex\latex\graphics\graphicx.sty
+(D:\CTEX\MiKTeX\tex\latex\graphics\graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 \Gin@req@height=\dimen129
 \Gin@req@width=\dimen130
 )
-(C:\CTEX\MiKTeX\tex\latex\caption\caption.sty
+(D:\CTEX\MiKTeX\tex\latex\caption\caption.sty
 Package: caption 2011/11/10 v3.2e Customizing captions (AR)
 
-(C:\CTEX\MiKTeX\tex\latex\caption\caption3.sty
+(D:\CTEX\MiKTeX\tex\latex\caption\caption3.sty
 Package: caption3 2011/11/01 v1.4a caption3 kernel (AR)
 \captionmargin=\dimen131
 \captionmargin@=\dimen132
@@ -268,11 +268,11 @@ t \footnotesize \hfil \box \@tempboxa \hfil }\else \hbox to\hsize {\normalfont
 \footnotesize \box \@tempboxa \hfil }\fi \fi \fi .
 \c@ContinuedFloat=\count110
 Package caption Info: float package is loaded.
-) (C:\CTEX\MiKTeX\tex\latex\jknappen\mathrsfs.sty
+) (D:\CTEX\MiKTeX\tex\latex\jknappen\mathrsfs.sty
 Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
 \symrsfs=\mathgroup6
 )
-(C:\CTEX\MiKTeX\tex\latex\tools\bm.sty
+(D:\CTEX\MiKTeX\tex\latex\tools\bm.sty
 Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
 \symboldoperators=\mathgroup7
 \symboldletters=\mathgroup8
@@ -283,7 +283,7 @@ LaTeX Info: Redefining \bm on input line 204.
 \c@thm=\count111
 \c@cor=\count112
 
-(C:\CTEX\MiKTeX\tex\latex\ams\classes\amsthm.sty
+(D:\CTEX\MiKTeX\tex\latex\ams\classes\amsthm.sty
 Package: amsthm 2004/08/06 v2.20
 \thm@style=\toks25
 \thm@bodyfont=\toks26
@@ -302,21 +302,22 @@ Package: amsthm 2004/08/06 v2.20
 \c@example=\count117
 \c@theorem=\count118
 
-("E:\myCode\Latex\Weekly Report of Interference Alignment\Weekly Report of Inte
-rference Alignment.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
- (C:\CTEX\MiKTeX\tex\context\base\supp-pdf.mkii
+("F:\代码文件夹\Githup\Weekly-Report-of-Interference-Alignment\Weekly Repo
+rt of Interference Alignment.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+
+(D:\CTEX\MiKTeX\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count119
 \scratchdimen=\dimen137
@@ -332,48 +333,110 @@ LaTeX Font Info:    ... okay on input line 32.
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Try loading font information for U+msa on input line 48.
- (C:\CTEX\MiKTeX\tex\latex\amsfonts\umsa.fd
+LaTeX Font Info:    Try loading font information for U+msa on input line 44.
+ (D:\CTEX\MiKTeX\tex\latex\amsfonts\umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 48.
+LaTeX Font Info:    Try loading font information for U+msb on input line 44.
 
-(C:\CTEX\MiKTeX\tex\latex\amsfonts\umsb.fd
+(D:\CTEX\MiKTeX\tex\latex\amsfonts\umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 48.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 44.
 
-(C:\CTEX\MiKTeX\tex\latex\jknappen\ursfs.fd
+(D:\CTEX\MiKTeX\tex\latex\jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-) [1{C:/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK.sfd}}]
-("E:\myCode\Latex\Weekly Report of Interference Alignment\Weekly Report of Inte
-rference Alignment.bbl") [2]
-("E:\myCode\Latex\Weekly Report of Interference Alignment\Weekly Report of Inte
-rference Alignment.aux") ) 
+)
+
+pdfTeX warning: pdflatex.exe (file F:/代码文件夹/Githup/Weekly-Report-of-I
+nterference-Alignment/mMIMO.pdf): PDF inclusion: found PDF version <1.6>, but a
+t most version <1.5> allowed
+<mMIMO.pdf, id=1, 500.44234pt x 85.0096pt>
+File: mMIMO.pdf Graphic file (type pdf)
+ <use mMIMO.pdf>
+Package pdftex.def Info: mMIMO.pdf used on input line 49.
+(pdftex.def)             Requested size: 516.0pt x 87.65294pt.
+ [1{D:/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK.sfd}} <F:/代�
+�文件夹/Githup/Weekly-Report-of-Interference-Alignment/mMIMO.pdf>] [2]
+<result_66.pdf, id=119, 433.62172pt x 329.8152pt>
+File: result_66.pdf Graphic file (type pdf)
+ <use result_66.pdf>
+Package pdftex.def Info: result_66.pdf used on input line 183.
+(pdftex.def)             Requested size: 309.60315pt x 235.49902pt.
+
+<IterativeCount.pdf, id=120, 461.47495pt x 336.38274pt>
+File: IterativeCount.pdf Graphic file (type pdf)
+
+<use IterativeCount.pdf>
+Package pdftex.def Info: IterativeCount.pdf used on input line 188.
+(pdftex.def)             Requested size: 335.39685pt x 244.47946pt.
+ [3 <F:/代码文件夹/Githup/Weekly-Report-of-Interference-Alignment/result_6
+6.pdf>]
+<result_22.pdf, id=126, 423.11003pt x 323.24564pt>
+File: result_22.pdf Graphic file (type pdf)
+ <use result_22.pdf>
+Package pdftex.def Info: result_22.pdf used on input line 195.
+(pdftex.def)             Requested size: 335.39685pt x 256.24413pt.
+
+<result_44.pdf, id=127, 420.48193pt x 327.18736pt>
+File: result_44.pdf Graphic file (type pdf)
+ <use result_44.pdf>
+Package pdftex.def Info: result_44.pdf used on input line 199.
+(pdftex.def)             Requested size: 335.39685pt x 260.98639pt.
+ [4 <F:/代码文件夹/Githup/Weekly-Report-of-Interference-Alignment/Iterativ
+eCount.pdf>] <result_88.pdf, id=133, 444.13399pt x 338.35709pt>
+File: result_88.pdf Graphic file (type pdf)
+ <use result_88.pdf>
+Package pdftex.def Info: result_88.pdf used on input line 203.
+(pdftex.def)             Requested size: 335.39685pt x 255.51741pt.
+
+[5 <F:/代码文件夹/Githup/Weekly-Report-of-Interference-Alignment/result_22
+.pdf> <F:/代码文件夹/Githup/Weekly-Report-of-Interference-Alignment/result
+_44.pdf>] <resultWithHeath66.pdf, id=141, 417.85379pt x 324.55954pt>
+File: resultWithHeath66.pdf Graphic file (type pdf)
+
+<use resultWithHeath66.pdf>
+Package pdftex.def Info: resultWithHeath66.pdf used on input line 210.
+(pdftex.def)             Requested size: 335.39685pt x 260.51463pt.
+
+("F:\代码文件夹\Githup\Weekly-Report-of-Interference-Alignment\Weekly Repo
+rt of Interference Alignment.bbl" [6 <F:/代码文件夹/Githup/Weekly-Report-o
+f-Interference-Alignment/result_88.pdf> <F:/代码文件夹/Githup/Weekly-Repor
+t-of-Interference-Alignment/resultWithHeath66.pdf>]) [7]
+("F:\代码文件夹\Githup\Weekly-Report-of-Interference-Alignment\Weekly Repo
+rt of Interference Alignment.aux") ) 
 Here is how much of TeX's memory you used:
- 4315 strings out of 495354
- 63540 string characters out of 3183859
- 125621 words of memory out of 3000000
- 7402 multiletter control sequences out of 15000+200000
+ 4364 strings out of 495354
+ 64469 string characters out of 3183859
+ 126621 words of memory out of 3000000
+ 7444 multiletter control sequences out of 15000+200000
  45360 words of font info for 107 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 36i,10n,38p,867b,186s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/CTEX/MiKTeX/fonts/enc/dvips/fontname/8r.enc}<C:/C
-TEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/CTEX/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmex10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmmi12.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/CTEX/Mi
-KTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/CTEX/MiKTeX/fonts/type1/publi
-c/amsfonts/cm/cmmi9.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pf
-b><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/CTEX/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmr8.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/
-cm/cmsy10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/CTEX
-/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/CTEX/MiKTeX/fonts/ty
-pe1/urw/times/utmb8a.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/C
-TEX/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "Weekly Report of Interference Alignment.pdf" (2 pages, 15069
-1 bytes).
+ 36i,10n,38p,1024b,263s stack positions out of 5000i,500n,10000p,200000b,50000s
+{D:/CTEX/MiKTeX/fonts/enc/dvips/fontname/8r
+.enc}<D:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/CTEX/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/CTEX/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmex10.pfb><D:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+<D:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><D:/CTEX/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmmi5.pfb><D:/CTEX/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmmi6.pfb><D:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/CTEX
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><D:/CTEX/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmmi9.pfb><D:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10
+.pfb><D:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/CTEX/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmr6.pfb><D:/CTEX/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmr7.pfb><D:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/CTE
+X/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/CTEX/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmsy5.pfb><D:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cms
+y7.pfb><D:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><D:/CTEX/MiKTeX
+/fonts/type1/public/amsfonts/euler/eusm10.pfb><D:/CTEX/MiKTeX/fonts/type1/publi
+c/amsfonts/euler/eusm7.pfb><D:/CTEX/MiKTeX/fonts/type1/public/amsfonts/symbols/
+msam10.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><D:/CTEX/MiKTeX/fon
+ts/type1/urw/times/utmr8a.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/times/utmri8a.pfb
+>
+Output written on "Weekly Report of Interference Alignment.pdf" (7 pages, 36654
+4 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
+ 206 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 

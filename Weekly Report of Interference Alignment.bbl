@@ -11,6 +11,11 @@ K.~Gomadam, V.~R. Cadambe, and S.~A. Jafar, ``A distributed numerical approach
   networks,'' {\em IEEE Transactions on Information Theory}, vol.~57, no.~6,
   pp.~3309--3322, 2011.
 
+\bibitem{maddah2012completely}
+M.~A. Maddah-Ali and D.~Tse, ``Completely stale transmitter channel state
+  information is still very useful,'' {\em IEEE Transactions on Information
+  Theory}, vol.~58, no.~7, pp.~4418--4431, 2012.
+
 \bibitem{geraci2017operating}
 G.~Geraci, A.~Garcia-Rodriguez, D.~L{\'o}pez-P{\'e}rez, A.~Bonfante, L.~G.
   Giordano, and H.~Claussen, ``Operating massive mimo in unlicensed bands for

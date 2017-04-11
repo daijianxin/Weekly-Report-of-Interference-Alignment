@@ -19,3 +19,11 @@
   year={2011},
   publisher={IEEE}
 }
+
+@article{geraci2017operating,
+  title={Operating Massive MIMO in Unlicensed Bands for Enhanced Coexistence and Spatial Reuse},
+  author={Geraci, Giovanni and Garcia-Rodriguez, Adrian and L{\'o}pez-P{\'e}rez, David and Bonfante, Andrea and Giordano, Lorenzo Galati and Claussen, Holger},
+  journal={IEEE Journal on Selected Areas in Communications},
+  year={2017},
+  publisher={IEEE}
+}

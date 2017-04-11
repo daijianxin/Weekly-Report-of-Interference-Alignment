@@ -1,4 +1,4 @@
-%cadambe2008interference%\documentclass[conference]{IEEEtran}
+%\documentclass[conference]{IEEEtran}
 \documentclass[12pt, onecolumn]{IEEEtran}
 \usepackage{graphics,  color,  amsmath, amsfonts, amssymb, balance,algorithm,algorithmic,array ,comment}
 \usepackage{graphicx}
@@ -28,7 +28,6 @@
 \author{Jianxin Dai\\
 }
 \title{Weekly Report of Interference Alignment }
-
 \begin{document}
 \maketitle
 
@@ -42,7 +41,28 @@ In the paper \cite{cadambe2008interference}, a centralized scheme is present in 
 
 In the paper \cite{gomadam2011distributed}, two  distributed strategies are present. The idea for strategies are  that each iteration, users try to minimize the extent to which their signal leaks into the other users' desired signal subspaces. After the algorithm converges, the IA condition should ideally be satisfied and the desired signal spaces be free of interference.   Relying on reciprocity for precoding over the interference channel, however, has a number of potential drawbacks. Iterating over the air may incur a non-negligible overhead due to the recurring pilot transmissions.
 
-\textcolor[rgb]{1.00,0.00,0.00}{In the paper \cite{geraci2017operating}, authors proposed to operate massive Multiple Input Multiple Output (MIMO) cellular Base Stations (BSs) in unlicensed bands. they design a procedures required at a cellular BS to guarantee coexistence with nearby WiFi stations in the same piece of unlicensed band via interference alignment technology.  }
+In the paper \cite{maddah2012completely}, authors show that in an MIMO broadcast channel with $K$ transmit antennas and K receivers equipped  with one antenna, $\frac{K}{1+ \frac{1}{2}+...+\frac{1}{K}}$ degrees of freedom is achieve even when the fed back channel state is completely independent of the current state. In this scheme, the transmitters uses the fed back CSI to learn the side information that the receivers receive from previous transmissions rather than to predict the current channel state
+
+
+In the paper \cite{geraci2017operating}, authors proposed to operate massive Multiple Input Multiple Output (MIMO) cellular Base Stations (BSs) in unlicensed bands (mMIMO-U). they design a procedures required at a cellular BS to guarantee coexistence with nearby WiFi stations in the same piece of unlicensed band via interference alignment technology.  Fig.~\ref{FIG:mMIMO} show the flow of mMIMO-U  proposed.
+\begin{figure}[H]
+    \centering\includegraphics[width=1\columnwidth]{mMIMO.pdf}
+    \caption{ Flow chart of the proposed mMIMO-U}\label{FIG:mMIMO}
+\end{figure}
+\begin{description}
+  \item[Step1:] %authors discuss the operations requires for a massive MIMO celluar BS to:
+                    \begin{enumerate}
+                      \item acquire channel state information from the neighboring WiFi devices.
+                      \item allocate spatial resources for WiFi interference suppression and user equipment (UE) multiplexing.
+                      \item select a suitable set of UEs to be served in the unlicensed band.
+                    \end{enumerate}
+  \item[Step2:] %authors devise a transmission operations of a massive MIMO-U system, including:
+                    \begin{enumerate}
+                        \item an enhanced LBT phase.
+                        \item procedures for UE pilot request and channel estimation.
+                        \item precoder calculation.
+                    \end{enumerate}
+\end{description} 
 \subsection{Based System Model}
 \subsubsection{Channel Transmission}
 Consider the $K$-user MIMO interference where the $k^{th}$ transmitter and receiver are equipped with $M$ and $N$ antennas respectively. Note that the channel matrices will have  a diagonal structure. The channel is defined as:
@@ -154,6 +174,45 @@ ss
 \end{algorithmic}
 \end{algorithm}
 \end{comment}
+
+
+
+\section{Simulation Work}
+
+\begin{figure}[H]
+    \centering\includegraphics[width=0.6\columnwidth]{result_66.pdf}
+    \caption{ Centralized and Distributed Scheme(6,6,3)}\label{FIG:Compare}
+\end{figure}
+
+\begin{figure}[H]
+    \centering\includegraphics[width=0.65\columnwidth]{IterativeCount.pdf}
+    \caption{ Centralized and Distributed Scheme}\label{FIG:IterativeCount}
+\end{figure}
+For evaluate the performance  of Centralized Scheme \cite{cadambe2008interference} and Distributed Iterative Scheme \cite{gomadam2011distributed}, we do some numerical  simulations with MATLAB. Consider the $3$-user MIMO interference where both of transmitter and receiver are equipped with 6 antennas.  transmission code stream is 3.  The channel matrix $H_{[i,j]}$ is chosen to be independent zero-mean unit-variance i.i.d Gaussian matrix. Meanwhile the noise is  zero mean unit variance  AWGN.   As we can see from Fig.~\ref{FIG:Compare}, the performance of Centralized Scheme will better than  Distributed Iterative Scheme with high user power. It is because that  Iterative Scheme can not eliminate interference from other users completely.   Fig.~\ref{FIG:IterativeCount} shows interference leakage will decrease with a increased iterative count in  Distributed Iterative Scheme .
+
+Similar to \cite{gomadam2011distributed}, we also consider a 3 user interference channel where each node is equipped with 2 antennas and all channel coefficients are i.i.d. zero mean unit variance circularly symmetric complex user achieves 1 degree of freedom. As shown in Fig.~\ref{FIG:result_22},  we compare the performance of the  distributed iterative scheme and centralized scheme.
+\begin{figure}[H]
+    \centering\includegraphics[width=0.65\columnwidth]{result_22.pdf}
+    \caption{ Centralized and Distributed Scheme(2,2,1)}\label{FIG:result_22}
+\end{figure}
+\begin{figure}[H]
+    \centering\includegraphics[width=0.65\columnwidth]{result_44.pdf}
+    \caption{ Centralized and Distributed Scheme(4,4,2)}\label{FIG:result_44}
+\end{figure}
+\begin{figure}[H]
+    \centering\includegraphics[width=0.65\columnwidth]{result_88.pdf}
+    \caption{ Centralized and Distributed Scheme(8,8,4)}\label{FIG:result_88}
+\end{figure}
+
+
+\textbf{As show in Fig.~\ref{FIG:resultWithHeath66.pdf}, we compare the performance of the three IA schemes. }
+\begin{figure}[H]
+    \centering\includegraphics[width=0.65\columnwidth]{resultWithHeath66.pdf}
+    \caption{ Centralized , Distributed and Heath Scheme(6,6,3)}\label{FIG:resultWithHeath66.pdf}
+\end{figure}
+
+
+
 %\bibliographystyle{ieeetr}
 \bibliographystyle{hieeetran}
 \bibliography{MyCite}
