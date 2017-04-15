@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2017.3.27)  14 APR 2017 14:02
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2017.3.27)  14 APR 2017 14:07
 entering extended mode
-**E:/myCode/Latex/Weekly*Report*of*Interference*Alignment/Weekly*Report*of*Inte
-rference*Alignment.tex
+**E:/myCode/Latex/Weekly*Report*of*Interference*Alignment/UserSelectionReport.t
+ex
 
-("E:/myCode/Latex/Weekly Report of Interference Alignment/Weekly Report of Inte
-rference Alignment.tex"
+("E:/myCode/Latex/Weekly Report of Interference Alignment/UserSelectionReport.t
+ex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for loaded.
 (C:\CTEX\MiKTeX\tex\latex\ieeetran\IEEEtran.cls
@@ -302,20 +302,20 @@ Package: amsthm 2004/08/06 v2.20
 \c@example=\count117
 \c@theorem=\count118
 
-("E:\myCode\Latex\Weekly Report of Interference Alignment\Weekly Report of Inte
-rference Alignment.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
+("E:\myCode\Latex\Weekly Report of Interference Alignment\UserSelectionReport.a
+ux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
  (C:\CTEX\MiKTeX\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count119
@@ -332,109 +332,39 @@ LaTeX Font Info:    ... okay on input line 31.
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Try loading font information for U+msa on input line 44.
+
+("E:\myCode\Latex\Weekly Report of Interference Alignment\UserSelectionReport.b
+bl"
+LaTeX Font Info:    Try loading font information for U+msa on input line 5.
  (C:\CTEX\MiKTeX\tex\latex\amsfonts\umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 44.
+LaTeX Font Info:    Try loading font information for U+msb on input line 5.
 
 (C:\CTEX\MiKTeX\tex\latex\amsfonts\umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 44.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 5.
 
 (C:\CTEX\MiKTeX\tex\latex\jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-)
-
-pdfTeX warning: pdflatex.exe (file E:/myCode/Latex/Weekly Report of Interferenc
-e Alignment/mMIMO.pdf): PDF inclusion: found PDF version <1.6>, but at most ver
-sion <1.5> allowed
-<mMIMO.pdf, id=1, 500.44234pt x 85.0096pt>
-File: mMIMO.pdf Graphic file (type pdf)
- <use mMIMO.pdf>
-Package pdftex.def Info: mMIMO.pdf used on input line 49.
-(pdftex.def)             Requested size: 516.0pt x 87.65294pt.
- [1{C:/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK.sfd}} <E:/myCod
-e/Latex/Weekly Report of Interference Alignment/mMIMO.pdf>] [2]
-<result_66.pdf, id=119, 433.62172pt x 329.8152pt>
-File: result_66.pdf Graphic file (type pdf)
- <use result_66.pdf>
-Package pdftex.def Info: result_66.pdf used on input line 183.
-(pdftex.def)             Requested size: 309.60315pt x 235.49902pt.
-
-<IterativeCount.pdf, id=120, 461.47495pt x 336.38274pt>
-File: IterativeCount.pdf Graphic file (type pdf)
-
-<use IterativeCount.pdf>
-Package pdftex.def Info: IterativeCount.pdf used on input line 188.
-(pdftex.def)             Requested size: 335.39685pt x 244.47946pt.
- [3 <E:/myCode/Latex/Weekly Report of Interference Alignment/result_66.pdf>] <r
-esult_22.pdf, id=126, 423.11003pt x 323.24564pt>
-File: result_22.pdf Graphic file (type pdf)
-
-<use result_22.pdf>
-Package pdftex.def Info: result_22.pdf used on input line 195.
-(pdftex.def)             Requested size: 335.39685pt x 256.24413pt.
- <result_44.pdf, id=127, 420.48193pt x 327.18736pt>
-File: result_44.pdf Graphic file (type pdf)
-
-<use result_44.pdf>
-Package pdftex.def Info: result_44.pdf used on input line 199.
-(pdftex.def)             Requested size: 335.39685pt x 260.98639pt.
- [4 <E:/myCode/Latex/Weekly Report of Interference Alignment/IterativeCount.pdf
->] <result_88.pdf, id=133, 444.13399pt x 338.35709pt>
-File: result_88.pdf Graphic file (type pdf)
-
-<use result_88.pdf>
-Package pdftex.def Info: result_88.pdf used on input line 203.
-(pdftex.def)             Requested size: 335.39685pt x 255.51741pt.
- [5 <E:/myCode/Latex/Weekly Report of Interference Alignment/result_22.pdf> <E:
-/myCode/Latex/Weekly Report of Interference Alignment/result_44.pdf>] <resultWi
-thHeath66.pdf, id=141, 417.85379pt x 324.55954pt>
-File: resultWithHeath66.pdf Graphic file (type pdf)
-
-<use resultWithHeath66.pdf>
-Package pdftex.def Info: resultWithHeath66.pdf used on input line 210.
-(pdftex.def)             Requested size: 335.39685pt x 260.51463pt.
-
-("E:\myCode\Latex\Weekly Report of Interference Alignment\Weekly Report of Inte
-rference Alignment.bbl" [6 <E:/myCode/Latex/Weekly Report of Interference Align
-ment/result_88.pdf> <E:/myCode/Latex/Weekly Report of Interference Alignment/re
-sultWithHeath66.pdf>]) [7]
-("E:\myCode\Latex\Weekly Report of Interference Alignment\Weekly Report of Inte
-rference Alignment.aux") ) 
+)) [1{C:/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK.sfd}}]
+("E:\myCode\Latex\Weekly Report of Interference Alignment\UserSelectionReport.a
+ux") ) 
 Here is how much of TeX's memory you used:
- 4364 strings out of 495354
- 64379 string characters out of 3183859
- 126621 words of memory out of 3000000
- 7444 multiletter control sequences out of 15000+200000
- 45360 words of font info for 107 fonts, out of 3000000 for 9000
+ 4271 strings out of 495354
+ 62804 string characters out of 3183859
+ 119621 words of memory out of 3000000
+ 7372 multiletter control sequences out of 15000+200000
+ 37855 words of font info for 85 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 36i,10n,38p,1014b,263s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/CTEX/MiKTeX/fonts/enc/dvips/fontname/8r.enc}<C:/C
-TEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/CTEX/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmbx12.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmex10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/CTEX/M
-iKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/CTEX/MiKTeX/fonts/type1/pub
-lic/amsfonts/cm/cmmi5.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.
-pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/CTEX/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmmi8.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfo
-nts/cm/cmmi9.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/C
-TEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/CTEX/MiKTeX/fonts/type1
-/public/amsfonts/cm/cmr6.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr
-7.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/CTEX/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmsy10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmsy5.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:
-/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/CTEX/MiKTeX/fonts/typ
-e1/public/amsfonts/euler/eusm10.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts
-/euler/eusm7.pfb><C:/CTEX/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb
-><C:/CTEX/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/CTEX/MiKTeX/fonts/type1/u
-rw/times/utmr8a.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "Weekly Report of Interference Alignment.pdf" (7 pages, 36624
-3 bytes).
+ 36i,6n,38p,360b,200s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/CTEX/MiKTeX/fonts/enc/dvips/fontname/8r.enc}<C:/CTEX/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmmi9.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/times/utmr8a.pf
+b><C:/CTEX/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on UserSelectionReport.pdf (1 page, 33219 bytes).
 PDF statistics:
- 206 PDF objects out of 1000 (max. 8388607)
+ 19 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,0 +1,39 @@
+\documentclass[12pt, onecolumn]{IEEEtran}
+\usepackage{graphics,  color,  amsmath, amsfonts, amssymb, balance,algorithm,algorithmic,array ,comment}
+\usepackage{graphicx}
+%\usepackage{bbding}
+%\usepackage{multirow}
+\usepackage{caption}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+\usepackage{amsmath, amssymb}
+\usepackage{mathrsfs}
+\usepackage{bm}%Greek letters in boldface
+\vfuzz2pt % Don't report over-full v-boxes if over-edge is small draftcls
+\hfuzz2pt % Don't report over-full h-boxes if over-edge is small
+% THEOREMS -------------------------------------------------------
+\newtheorem{thm}{Theorem}%[section] ,draftcls
+\newtheorem{cor}{Corollary}
+\usepackage{amsthm}
+\newtheorem{lem}{Lemma}
+\newtheorem{prop}{Proposition}
+\newtheorem{defn}{Definition}
+\newtheorem{rem}{Remark}
+\newtheorem{example}{Example}
+\newtheorem{theorem}{Theorem}
+\renewcommand{\algorithmicrequire}{ \textbf{Initialization:}}
+\renewcommand{\algorithmicensure}{ \textbf{Return:}}
+
+\author{Jianxin Dai\\
+}
+\title{Users Selection Report }
+\begin{document}
+\maketitle
+
+\section{Introduction}
+Interference Alignment (IA) is a revoIn the paper \cite{cadambe2008interference}, a centrali
+
+%\bibliographystyle{ieeetr}
+\bibliographystyle{hieeetran}
+\bibliography{MyCite}
+\end{document}
